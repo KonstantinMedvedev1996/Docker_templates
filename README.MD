@@ -36,6 +36,7 @@ git clone https://github.com/your-repo/docker-templates.git
 cd docker-templates/web-application
 docker-compose up
 ```
+For more details, see the [Web Application README](web-applications/README.md).
 
 ### Ubuntu Server
 
@@ -74,7 +75,7 @@ docker-compose up
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/docker-templates.git
+   git clone https://github.com/KonstantinMedvedev1996/Docker_templates.git
    ```
 2. Navigate to the template you need.
 3. Follow the usage instructions provided in each template's README or inline comments.
