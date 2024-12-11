@@ -7,6 +7,8 @@ This directory contains Docker templates for quickly starting web applications. 
 - [Nginx + Node.js](#nginx--nodejs)
 - [React Development Server](#react-development-server)
 - [Django + Gunicorn](#django--gunicorn)
+- [Flask + SQLLite](#django--gunicorn)
+- [FastAPI + Gunicorn](#django--gunicorn)
 
 ---
 

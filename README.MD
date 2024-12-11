@@ -36,7 +36,7 @@ git clone https://github.com/your-repo/docker-templates.git
 cd docker-templates/web-application
 docker-compose up
 ```
-For more details, see the [Web Application README](web-applications/README.md).
+For more details, see the [Web Application README](web-applications/README.MD).
 
 ### Ubuntu Server
 
